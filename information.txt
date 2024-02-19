@@ -1,0 +1,25 @@
+npm init -y (initially for package.json) . if it doesnot run ,check if nodejs is downloaded
+npx create-react-app ./client
+
+for backend -
+npm install
+cors- cross origin requests
+express- to start server
+nodemon- to refresh server when we make changes
+socket.io package- to make real time data connection like audio , video, messages
+
+for frontend- 
+@material-ui/core @material-ui/icons- ui kit similar to bootstrap and gives pre styled components to be used in applications
+react-copy-to-clipboard
+simple-peer
+socket.io-client
+
+useref hook - The useRef Hook allows you to persist values between renders.
+It can be used to store a mutable value that does not cause a re-render when updated.
+It can be used to access a DOM element directly.
+
+
+heroku to deploy server
+netlify for front end
+
+
